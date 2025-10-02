@@ -1,3 +1,6 @@
+# GOGOCAE.R1-claude.without-vooster-
+CAE process dashboard
+
 이 프로젝트는 [`EasyNext`](https://github.com/easynext/easynext)를 사용해 생성된 [Next.js](https://nextjs.org) 프로젝트입니다.
 
 ## Getting Started
